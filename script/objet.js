@@ -1,1 +1,7 @@
-console.log("hola");
+let libro = [
+    {
+        titulo: "Culpa Mia",
+      
+    
+    }
+]
